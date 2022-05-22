@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90787536888",
+    "project_id": "voluntario-d7ff0",
+    "storage_bucket": "voluntario-d7ff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90787536888:android:26afc6d9ad3b855c8ec00d",
+        "android_client_info": {
+          "package_name": "com.ifsp.queroservoluntario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90787536888-9gi027f2263sp2aff4lv4atep2er541i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrJPRk2YlUwfjZljxfKQa9qmhxHbhzUnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90787536888-9gi027f2263sp2aff4lv4atep2er541i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
